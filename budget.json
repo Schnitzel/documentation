@@ -9,7 +9,7 @@
     "totalrequests": 65
   },
   "timings": {
-    "serverResponseTime": 300,
+    "serverResponseTime": 1,
     "domContentLoadedTime": 2500,
     "frontEndTime": 5000,
     "speedIndex": 1000
