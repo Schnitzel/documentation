@@ -10,12 +10,12 @@
   },
   "timings": {
     "serverResponseTime": 300,
-    "domContentLoadedTime": 5000,
-    "frontEndTime": 10000,
-    "speedIndex": 5000
+    "domContentLoadedTime": 2500,
+    "frontEndTime": 5000,
+    "speedIndex": 1000
   },
   "wpt": {
-    "SpeedIndex": 3000
+    "SpeedIndex": 1000
   },
   "gpsi": {
     "score": 90
